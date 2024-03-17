@@ -3,9 +3,9 @@
 int main()
 {
     float alas, tinggi, luas;
-    printf("Masukkan alas persegi panjang: ");
+    printf("Masukkan alas segitiga: ");
     scanf("%f", &alas);
-    printf("Masukkan tinggi persegi panjang: ");
+    printf("Masukkan tinggi segitiga: ");
     scanf("%f", &tinggi);
     
     luas = alas * tinggi * 0.5 ;
